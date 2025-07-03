@@ -1,4 +1,5 @@
 # Application: self driving car
+
 # Example 16
 Train an AI to drive a Donkey car in a simulated environment. Apply the supervised learning method:
 * First drive an example route within the simulator and collect the training data: images from the front camera along with the control commands.
