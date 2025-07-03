@@ -9,3 +9,5 @@ Train an AI to drive a Donkey car in a simulated environment. Apply the supervis
 Install the Donkey Car simulator by following the instructions in this link:
 [Install the Donkey](https://pypi.org/project/gym-donkeycar/)
 
+![](Exp_16.JPG)
+
